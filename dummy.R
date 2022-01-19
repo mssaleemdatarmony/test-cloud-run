@@ -4,5 +4,5 @@
 
 #* @get /
 function() {
-  return("Process finished!")
+  return("Process finished and updated!")
 }
